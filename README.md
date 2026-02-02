@@ -195,13 +195,11 @@ Clean and scalable folder structure
 ✔ Mobile-responsive layout
 ✔ Beginner-friendly, readable code
 
-📸 Screens (Optional)
+📸 Screenshots of Todo, Form, Progress bar, search bar 
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/fb9185c0-6fe1-4694-a395-5c5622365b96" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/8f90a2ae-d5e6-4d42-9026-c081d800b6e4" />
 
-You can add screenshots here for better presentation:
 
-/screenshots/todo.png
-/screenshots/form.png
-/screenshots/search.png
 🚀 Possible Enhancements
 
 Dark mode toggle
@@ -221,5 +219,6 @@ This project is created solely for internship evaluation purposes.
 🙋‍♀️ Author
 
 Challa Samatha
+samathachowdary2004@gmail.com
 React Developer Intern Applicant
 
