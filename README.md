@@ -60,8 +60,7 @@ npm or yarn
 
 Steps to Run Locally
 # Clone the repository
-git clone https://github.com/your-username/react-intern-assignment.git
-
+git clone https://github.com/challasamatha/React-Intern-Assignment.git
 
 # Navigate to project folder
 cd react-intern-assignment
